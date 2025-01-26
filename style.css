@@ -3258,12 +3258,6 @@ SUPPORT
 .highlightHover:hover{filter:brightness(125%);opacity:1;}
 .highlightHover:active{filter:brightness(85%);opacity:1;}
 
-.ifNoAds
-{
-	display:none;
-}
-.noAds .ifNoAds{display:block;}
-.noAds #support,.noAds #smallSupport,.noAds .supportComment{display:none;}
 
 
 .srOnly

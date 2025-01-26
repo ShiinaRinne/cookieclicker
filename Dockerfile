@@ -1,0 +1,9 @@
+FROM node:18
+
+RUN npm install -g serve
+
+WORKDIR /app
+
+COPY . .
+
+CMD ["serve", "-s", ".", "-l", "3000"]

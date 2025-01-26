@@ -211,10 +211,6 @@ http://orteil.dashnet.org/cookieclicker/img/parade.png
 http://orteil.dashnet.org/cookieclicker/img/patreon.png
 http://orteil.dashnet.org/cookieclicker/img/perfectCookie.png
 http://orteil.dashnet.org/cookieclicker/img/pieFill.png
-http://orteil.dashnet.org/cookieclicker/img/playsaurusLogo.png
-http://orteil.dashnet.org/cookieclicker/img/playsaurusbanner1.png
-http://orteil.dashnet.org/cookieclicker/img/playsaurusbanner2.png
-http://orteil.dashnet.org/cookieclicker/img/playsaurusbanner3.png
 http://orteil.dashnet.org/cookieclicker/img/pointGlow.gif
 http://orteil.dashnet.org/cookieclicker/img/pointyLad.png
 http://orteil.dashnet.org/cookieclicker/img/portal.png
